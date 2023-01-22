@@ -1,6 +1,6 @@
 # Portafolio
 
-This project was generated with [ laravel](https://github.com/angular/angular-cli) version 14.2.3.
+This project was generated with [ angular](https://github.com/angular/angular-cli) version 14.2.3.
 
 ## Development server
 
